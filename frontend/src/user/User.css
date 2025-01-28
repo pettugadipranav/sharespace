@@ -1,0 +1,11 @@
+.user {
+    width: 100%;
+    max-width: 500px;
+    background-color: white;
+    border: 1px solif lightgray;
+    margin-bottom: 45px;
+}
+
+.user__avatar {
+    margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+{
+ "chat-rooms":[
+    {"id": 1,
+    "user1": "",
+    "user2": "",
+    "messageList":[
+        {   
+            "time":"",
+            "from":"",
+            "body":""
+        }
+    ]
+    }
+],
+ "users":[
+    {   
+        "id":1,
+        "username":""
+    }
+ ]
+}
